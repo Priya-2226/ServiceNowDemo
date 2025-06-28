@@ -2,8 +2,8 @@
     <element db_object_id="44f7aa5fc3122610c7d7990ed4013195" label="Asset catalog table" max_length="40" name="x_1791393_asset_0_asset_catalog_table" type="collection">
         <element choice="3" label="Asset Type" max_length="40" name="asset_type" type="choice">
             <choice>
+                <element inactive_on_update="false" label="Desktop" sequence="1" value="desktop"/>
                 <element inactive_on_update="false" label="Laptop" sequence="0" value="laptop"/>
-                <element inactive_on_update="false" label="Monitor" sequence="1" value="monitor"/>
                 <element inactive_on_update="false" label="Chair" sequence="2" value="chair"/>
             </choice>
         </element>

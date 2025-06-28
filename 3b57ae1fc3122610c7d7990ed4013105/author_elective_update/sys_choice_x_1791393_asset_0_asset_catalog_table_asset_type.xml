@@ -39,19 +39,19 @@
             <element>asset_type</element>
             <hint/>
             <inactive>false</inactive>
-            <label>Monitor</label>
+            <label>Desktop</label>
             <language>en</language>
             <name>x_1791393_asset_0_asset_catalog_table</name>
             <sequence>1</sequence>
             <synonyms/>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2025-06-28 07:52:16</sys_created_on>
+            <sys_created_on>2025-06-28 19:03:09</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2025-06-28 07:52:16</sys_updated_on>
-            <value>monitor</value>
+            <sys_updated_on>2025-06-28 19:03:09</sys_updated_on>
+            <value>desktop</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
             <dependent_value/>
