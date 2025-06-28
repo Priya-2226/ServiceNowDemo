@@ -9,6 +9,6 @@
         </element>
         <element label="Quantity Available" max_length="40" name="quantity_available" type="integer"/>
         <element label="Description" max_length="40" name="description" type="string"/>
-        <element label="Asset Name" max_length="40" name="asset_name" type="string"/>
+        <element label="Asset Names" max_length="40" name="asset_name" type="string"/>
     </element>
 </database>
