@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="quantity_available" label="Quantity Available" language="en" table="x_1791393_asset_0_asset_catalog_table">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>quantity_available</element>
+            <help/>
+            <hint/>
+            <label>Quantity Available</label>
+            <language>en</language>
+            <name>x_1791393_asset_0_asset_catalog_table</name>
+            <plural/>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-06-28 07:52:14</sys_created_on>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_name>Quantity Available</sys_name>
+            <sys_package display_value="Asset Request Management" source="x_1791393_asset_0">3b57ae1fc3122610c7d7990ed4013105</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Asset Request Management">3b57ae1fc3122610c7d7990ed4013105</sys_scope>
+            <sys_update_name>sys_documentation_x_1791393_asset_0_asset_catalog_table_quantity_available_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-06-28 07:52:14</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_properties">
+    <sys_properties action="DELETE">
+        <choices/>
+        <description>Enable internal app publishing from app engine studio</description>
+        <ignore_cache>true</ignore_cache>
+        <is_private>false</is_private>
+        <name>x_1791393_asset_0.glide.studio.app_publishing.internal.enabled</name>
+        <read_roles/>
+        <suffix>glide.studio.app_publishing.internal.enabled</suffix>
+        <sys_class_name>sys_properties</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-06-28 15:32:38</sys_created_on>
+        <sys_id>2442506fc3122210c7d7990ed40131a5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1791393_asset_0.glide.studio.app_publishing.internal.enabled</sys_name>
+        <sys_package display_value="Asset Request Management" source="x_1791393_asset_0">3b57ae1fc3122610c7d7990ed4013105</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Asset Request Management">3b57ae1fc3122610c7d7990ed4013105</sys_scope>
+        <sys_update_name>sys_properties_2442506fc3122210c7d7990ed40131a5</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-06-28 15:32:38</sys_updated_on>
+        <type>boolean</type>
+        <value>true</value>
+        <write_roles/>
+    </sys_properties>
+    <sys_translated_text action="DELETE" query="documentkey=2442506fc3122210c7d7990ed40131a5"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Asset Request Management">3b57ae1fc3122610c7d7990ed4013105</application>
+        <file_path/>
+        <instance_id>8c9c65d9fb7866180921f633beefdc44</instance_id>
+        <instance_name>dev321316</instance_name>
+        <name>sys_properties_2442506fc3122210c7d7990ed40131a5</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_properties"><sys_properties action="INSERT_OR_UPDATE"><choices/><description>Enable internal app publishing from app engine studio</description><ignore_cache>true</ignore_cache><is_private>false</is_private><name>x_1791393_asset_0.glide.studio.app_publishing.internal.enabled</name><read_roles/><suffix>glide.studio.app_publishing.internal.enabled</suffix><sys_class_name>sys_properties</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-06-28 15:32:38</sys_created_on><sys_id>2442506fc3122210c7d7990ed40131a5</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_1791393_asset_0.glide.studio.app_publishing.internal.enabled</sys_name><sys_package display_value="Asset Request Management" source="x_1791393_asset_0">3b57ae1fc3122610c7d7990ed4013105</sys_package><sys_policy/><sys_scope display_value="Asset Request Management">3b57ae1fc3122610c7d7990ed4013105</sys_scope><sys_update_name>sys_properties_2442506fc3122210c7d7990ed40131a5</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-06-28 15:32:38</sys_updated_on><type>boolean</type><value>true</value><write_roles/></sys_properties><sys_translated_text action="delete_multiple" query="documentkey=2442506fc3122210c7d7990ed40131a5"/></record_update>]]></payload>
+        <payload_hash>805910042</payload_hash>
+        <record_name>x_1791393_asset_0.glide.studio.app_publishing.internal.enabled</record_name>
+        <reverted_from/>
+        <source>0467ae1fc3122610c7d7990ed401319f</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-06-28 15:32:39</sys_created_on>
+        <sys_id>32e29c6fc3122210c7d7990ed401316d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>197b72b53b50000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-06-28 15:32:39</sys_updated_on>
+        <type>System Property</type>
+        <update_guid>36e29c6f7c1222108fa0bc3449fe4d6c</update_guid>
+        <update_guid_history>36e29c6f7c1222108fa0bc3449fe4d6c:805910042</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-06-28 16:02:09</sys_created_on>
+        <sys_db_object display_value="" name="sys_properties">sys_properties</sys_db_object>
+        <sys_id>200f7d88433f476b862d06fc9ba238f9</sys_id>
+        <sys_metadata>2442506fc3122210c7d7990ed40131a5</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1791393_asset_0.glide.studio.app_publishing.internal.enabled</sys_name>
+        <sys_package display_value="Asset Request Management" source="x_1791393_asset_0">3b57ae1fc3122610c7d7990ed4013105</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Asset Request Management">3b57ae1fc3122610c7d7990ed4013105</sys_scope>
+        <sys_scope_delete display_value="">1d2fc347d8994317844ab8f5fe9e3d29</sys_scope_delete>
+        <sys_update_name>sys_properties_2442506fc3122210c7d7990ed40131a5</sys_update_name>
+        <sys_update_version display_value="sys_properties_2442506fc3122210c7d7990ed40131a5">32e29c6fc3122210c7d7990ed401316d</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-06-28 16:02:09</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

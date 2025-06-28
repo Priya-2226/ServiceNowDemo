@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="b472b6dbc3522610c7d7990ed4013104" label="Asset Request Table" max_length="40" name="x_1791393_asset_0_asset_request_table" type="collection">
+        <element label="Requested date" max_length="40" name="requested_date" type="glide_date"/>
+        <element label="asset" max_length="32" name="asset" reference="x_1791393_asset_0_asset_catalog_table" type="reference"/>
+        <element label="requested by" max_length="32" name="requested_by" reference="sys_user" type="reference"/>
+        <element choice="3" label="Status" max_length="40" name="status" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Pending" sequence="1" value="pending"/>
+                <element inactive_on_update="false" label="Rejected" sequence="2" value="rejected"/>
+                <element inactive_on_update="false" label="Approved" sequence="0" value="approved"/>
+            </choice>
+        </element>
+        <index name="index">
+            <element name="asset"/>
+        </index>
+        <index name="index2">
+            <element name="requested_by"/>
+        </index>
+    </element>
+</database>
