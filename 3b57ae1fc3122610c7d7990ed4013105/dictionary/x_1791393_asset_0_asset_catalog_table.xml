@@ -7,7 +7,7 @@
             </choice>
         </element>
         <element label="Quantity Available" max_length="40" name="quantity_available" type="integer"/>
-        <element label="Description" max_length="40" name="description" type="string"/>
+        <element label="Descriptio" max_length="40" name="descriptio" type="string"/>
         <element label="Asset nam" max_length="40" name="asset_nam" type="string"/>
     </element>
 </database>
